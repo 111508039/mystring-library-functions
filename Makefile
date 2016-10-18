@@ -1,4 +1,4 @@
-try: lib.c main.c mystring.h
+try: lib.o main.o mystring.h
 	cc -c lib.c -Wall 
 	cc -c main.c -Wall
 	cc lib.c main.c -o try -Wall
@@ -8,3 +8,4 @@ main.o: mystring.h lib.c test.c
 	cc -c main.c -Wall
 clean:
 	rm lib.o main.o
+	rm -rf *o try
