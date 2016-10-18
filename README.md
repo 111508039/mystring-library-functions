@@ -1,1 +1,0 @@
-# mystring-library-functions
