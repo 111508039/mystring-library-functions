@@ -1,0 +1,345 @@
+1 mystrlen	fsgdfshgdfusydsjdwudjsdjs	25
+2 mystrlen	hshsjbshsjjsdhbdbshdsjbdbsjbdbdjsduwhdjbjsbdsjhdjsdsjdhsjd	50
+3 mystrlen	1253764784849494874746764767674		30
+4 mystrlen	maheshkumar	-11
+5 mystrlen	/,.';][\=-#@	12
+6 mystrlen	16258756948	11
+7 mystrlen 	pawan 		6
+8 mystrlen 	GANESH 		6
+9 mystrlen 	<<<>><<<>>>><<<<<<>>>>>><<<<<<<<>>>>>>> 	35
+
+10 mystrcmp	mahesh		kendre 		3
+11 mystrcmp 	mahesh		mahesh 		0
+12 mystrcmp 	abc 		b 	1
+13 mystrcmp 	vbg 		like 	-1
+14 mystrcmp 	abhi 		anu 	-5
+15 mystrcmp 	1234567 	1234560 	7
+16 mystrcmp 	/.,;'-=  	/.,;'-=  	0
+17 mystrcmp 	657253752871681767315 		62374681489191789361736 	9
+18 mystrcmp 	MAHESH 		mahesh 		32
+19 mystrcmp 	saish 		saiSH  		0
+
+20 mystrcpy	mahesh 		kendre 		kendre
+21 mystrcpy 	mahesh 		hi 		kendre 
+22 mystrcpy 	\0 	kjhdkshdohss 		shjskjssj
+23 mystrcpy 	hjgsdhsjhs 	\0 		sdkjhsd
+24 mystrcpy 	ganesh 		landge 		ganesh
+25 mystrcpy 	mahesh 		maheshkumar 	maheshkumar
+26 mystrcpy 	.,][;"'  	[,.';'';]  	[,.';;'.]
+27 mystrcpy 	43535356456465467576  	1  	1 
+28 mystrcpy 	0  	111508039  		111508045
+29 mystrcpy 	abhishek 	ABHISHEK 	abhishek
+
+30 mystrcat 	saish 		kalaskar 	saishkalaskar
+31 mystrcat 	ganesh 		landge 		lanndgeganesh
+32 mystrcat 	ganesh 		sachin 		ganeshsachin
+33 mystrcat 	vaibhav		 abhishek 	abhishekvaibhav
+34 mystrcat 	111  		508039  	1115080
+35 mystrcat 	MAHESH 		kendre 		maheshkendre
+36 mystrcat 	<';,./.>  	[;';';']  	<[';';';']>
+37 mystrcat 	1+2+3+4+5  	=15  15  
+38 mystrcat 	VARSHA 		KENDRE 		VARSHAKENDRE
+39 mystrcat 	90497 		89657 		9049789657
+
+40 mystrgpbrk 	mahesh 		vxyz 		esh
+41 mystrgpbrk 	ganesh 		kendre 		esh
+42 mystrgpbrk 	kbc 		all 		ghsdg
+43 mystrgpbrk 	abcd 		jkbl 		bcd
+44 mystrgpbrk 	salman 		man 		alman
+45 mystrgpbrk 	ANURAG 		anita 		ANURAG
+46 mystrgpbrk 	7083324363 	3 		3324363
+47 mystrgpbrk  	..<[[{()}]]>..  []   		[{()}]]>..
+48 mystrgpbrk  	aaaaaaaaaa  	mahesh 		aaaaaaaaa
+49 mystrgpbrk  /';',[-=  ,.;'/[]  ,[-=
+
+50 mystrncpy 	maheshkendre 	abhishek 	4 	abhi
+51 mystrncpy 	msdhoni 	virat 		5 	virat
+52 mystrncpy 	MAHESHkendre 	mahesh 		6 	maheshkendre
+53 mystrncpy 	<,;'[.;']>  	11111122222222  6  	111111
+54 mystrncpy 	pune 		mumbaiiscapitalofmaharashatra 	6 	mumbai 
+55 mystrncpy 	milind  	kalaskar  	25 	kalaskar
+56 mystrncpy 	91437468734 	0101010101  	10 	0101010101
+57 mystrncpy 	mahi 		MSDHONI 	7 	msdhoni
+58 mystrncpy 	sachin 		cricketer 	0 	dhsg
+
+59 mystrspn 	ganesh 		landge 		4
+60 mystrspn 	mahesh 		kendre 		0
+61 mystrspn 	mahesh 		kendre		4
+62 mystrspn 	shiva 		ashish		3
+63 mystrspn 	umesh 		umakant 	8
+64 mystrspn 	katrina 	aishwarya 	0
+65 mystrspn 	hritik 		shahid 		4
+66 mystrspn 	SHIVA 		ashish 		3
+67 mystrspn 	;'[]=-,.  	.;'  		2
+68 mystrspn 	111508027 	09657835421 	9
+
+69 mystrstr 	abcdbcdabcdacdabcd  	abcd  		abcdbcdabcdacdabcd  
+70 mystrstr 	abbbbbabab  		ab  		abab  
+71 mystrstr 	sachin_vivek_balaji  	vishal  	vivek_balaji
+72 mystrstr 	qwertywerfdwerwewer  	wer  		wertywerfdwerwewer  
+73 mystrstr 	AMAMAMAMAMMMAMAMAAMAAMAMAM  	MA  	MAMAMAMAMMMAMAMAAMAAMAMAM 
+74 mystrstr 	_+__++_+++_++++_+++++_++++_+++__++__+	   __+   	__+ 
+75 mystrstr 	675267572576572578  	8  		8
+76 mystrstr 	123454321  		782  		2762882
+77 mystrstr 	iaiaiaiaiiaiiiiaiiiiiaiiiiiaiiiiia  	iai  	iaiaiaiiaiiiaiiiaiaiiaiiaiiaiia
+78 mystrstr 	MAHESHKUMARkumar  	K  		KUMARkumar
+
+79 mymemmem 	maheshisisis 	  10 	is 	2 	isis
+80 mymemmem 	maheshisisis 	  10 	is 	2 	is
+81 mymemmem 	maheshisisis 	  6 	y 	1 	mahesh
+82 mymemmem 	maheshmaheshkendre 	18 	mahesh 	1 	maheshkendre
+83 mymemmem 	abbbbbabab 	 10 	ab 	0 	aghgahgah
+84 mymemmem 	..../|\/|\/|\/|\/|\....  	23 	 \......  	5  	\....
+85 mymemmem 	12112121212212212122  	12  	1121  	2  	112121212212212122
+86 mymemmem 	MUMBAIPUNEMUMBAI  	16  	MAHI  	1  	MUMBAIPUNE
+87 mymemmem 	<[{}]>><[{}]><}]>  	18  	}]><{  	3  	}]>
+88 mymemmem 	14151514155555555 	0  	92892  	0  	76786878
+
+89 mymemfrob 	mahesh  	4  	GKBOsh
+90 mymemfrob 	mahesh  	6  	GKBOYB
+91 mymemfrob 	sandip  	0  	BSGSD
+92 mymemfrob 	546735437  	8 	JDHSJ
+93 mymemfrob 	,.;'[]-=   	6  	,./[;]
+94 mymemfrob 	111508039  	9 	345673527
+95 mymemfrob 	MAHESHKUMAR  	11  	gshjgsssdhsj
+96 mymemfrob 	<[(123321)]>  	10  	{<([])>}
+97 mymemfrob 	MaHeSh 		6 	gKbOSh 
+
+98 mystrdup 	nikhil 		nikhil
+99 mystrdup 	anurag 		Anurag
+100 mystrdup 	<{[}{}}{}><>>  	<{[}{}}{}><><
+101 mystrdup 	111508039 	111508039
+102 mystrdup 	MAHESH 		mahesh
+103 mystrdup 	,.;'/;'  	,.;'/;'
+104 mystrdup 	635252732736276352283523826287263287352873523826382763287   	37826382736287628762873527835236725673427642372527
+105 mystrdup 	dghsdsgdwygdhwvdwhdwtywvvshsgsvdsbndsfghdfsgdsgfdsdgdgs  	dghsdhftyegveytgfegvhfgehfvdjbdndygddvdndyndvdnfvdndgdhs
+
+106 mystrreplacce 	mynameishiishdis  	is 	her 	mynamehihihihdhi
+107 mystrreplacce 	issiis  	is 	 her 	hersi
+108 mystrreplacce 	isisiisis  	is  	 her 	herheriisher
+109 mystrreplacce 	abcdbcdcdabcd  	abcd  	 000000  	00000bcdcd00000
+110 mystrreplacce 	sachin_vivek_balaji  	vishal  	kapse 		sachin_vivek_balaji
+111 mystrreplacce 	maheshkumar  	mahesh 		pawan  		pawankumar
+112 mystrreplacce 	abbbbbabab  	ab  	**  	**bbbbbbb****
+113 mystrreplacce 	111508039  	39  	45  	111508039
+114 mystrreplacce 	><<><<<>><<><>>><><><><<><>< 	<><>  	 |||  	 ><|||<><|||<><<<>>|||<<>>><>|||<>
+
+115 mystrndup	  mumbai-pune 	  6 	mumbai
+116 mystrndup 	  akshaykumar 	  8 	akshay
+117 mystrndup 	  sachin 	4      sach
+118 mystrndup 	  ><[]();'./\  	  6  	<>[]()
+119 mystrndup 	  MAHESHkumarkendre  	 6 	MAHESH
+120 mystrndup 	  111508039_111508024  	 9  	111508039_
+121 mystrndup     milind 	30 	milind
+122 mystrndup 	  +_+--+__++__+--+_+  	  18  	  +-+__+--++--__+__+-+ 
+
+123 mystrncasecmp 	maheshkumar 	MAHI 		3 	0
+124 mystrncasecmp 	vaibhavgawli	 vaibhav 	8 	0
+125 mystrncasecmp 	abhishek 	anurag 		0 	0
+126 mystrncasecmp 	{<[('|')]>}  	{<[('|'([<{  	11  	34
+127 mystrncasecmp 	GanESHLANdge 	Ganesh 		6 	0
+128 mystrncasecmp 	PAWANhage 	pawanhage  	9  	0
+129 mystrncasecmp	 GANesh 	ganpATI 	4 	4 
+130 mystrncasecmp 	InDIa 	    	iNdiA 		5 	4
+131 mystrncasecmp 	111508039 	11508024 	6 	0
+
+132 mystroccurance 	heissheisishsiisi  	is  	5
+133 mystroccurance 	indiaismycountryandallindiansaremybrothers  	india  	  1
+134 mystroccurance 	111508039_111508045_111508027   	11150   	3 
+135 mystroccurance 	()}[>'-(.)-'<]{)()  	()  	3 
+136 mystroccurance 	IAMMAMAMMAAM  	  AM  	    4 
+137 mystroccurance 	THISSISSISISSISSISIISISSISISSISISISISISISSSISISISIIISIIIS  	IS  	8
+138 mystroccurance 	ABABABABBBABABABAABABABAABABBBBABBAABBA  	Ab  	14
+139 mystroccurance 	+_+_++_+__+_++_++_++_+++_+__+++_+__++_++++_+++_+++_+++  	++_  	6
+
+140 mystrcspn 	   gopal 	lapgo 	  5
+141 mystrcspn 	   tanmay 	vaibhav 	4
+142 mystrcspn 	   SAISHKALASKAR 	MILINDGAWADE 	  1
+143 mystrcspn 	   InDiA 	iNdIa 	    5
+144 mystrcspn 	   shiva 	kalyan 	    4
+145 mystrcspn 	   7083324363 	91551995     10
+146 mystrcspn 	   manish 	gopal        0
+147 mystrcspn 	   {>|)^(|<} 	/\/\  	     9
+
+148 mystrcasecmp 	mahesh 		MAHESH 		0
+149 mystrcasecmp 	MahESH 		mAHesh 		5
+150 mystrcasecmp 	MAHESH 		MAHi 		3
+151 mystrcasecmp 	gAnESh 		ganesh 		0
+152 mystrcasecmp 	Abc 		FAST 		1
+153 mystrcasecmp 	k 		Jike 		-2
+154 mystrcasecmp 	abHI 		AnU 		-5
+155 mystrcasecmp 	InDIa 		iNdiA 		0
+156 mystrcasecmp 	111508020 	11508024 	4
+157 mystrcasecmp 	<{[(.)]}>  	<{[(.)]}>  	0
+
+158 mystrrev 	  hi 		 jhjhj
+159 mystrrev 	  gopal 	lapgo
+160 mystrrev 	  MAHESHKUMAR 	RAMUKHSEHAM
+161 mystrrev 	  1*2*3*4=24 	24=4*3*2*1
+162 mystrrev 	  asdf 		jkl
+163 mystrrev 	  shubham 	mahbuhs
+164 mystrrev 	  ;'<>{}()  	(){}<>';
+165 mystrrev 	  ksdj 		weir
+
+166 mystrncmp 	   mahesh 	mahi 		3 	0
+167 mystrncmp 	   anurag 	mahesh 		2 	8
+168 mystrncmp 	   vivek 	tatya 		4 	-5
+169 mystrncmp 	   abhishek 	anurag 		0 	0
+170 mystrncmp 	   MahaRASHATRA Mahi 3 		0
+171 mystrncmp 	   9049789657 	9049785027 	6 	0
+172 mystrncmp 	   ganesh 	ganpati 	4 	4
+173 mystrncmp 	   ;'.,;'' 	;'.,;.'  	4  	7 
+
+174 mystrchr 	   shhjksk 	sjhjk 		sjhkjs
+175 mystrchr 	   maheshkendre  m  		kendre
+176 mystrchr 	   landge 	k 		dhgdjud
+177 mystrchr 	   KARNATAKA 	A 		ATAKA
+178 mystrchr 	   78675276528768 	2  	276528768
+179 mystrchr 	   iamiamamimamiaaimamiamaimmaimimimaa  	iam   	  iamiamamiamamamammmimaammammamammam
+180 mystrchr 	   solapur 	p  	pur
+181 mystrchr 	   >:"-|-":<  	|  	|-":<
+182 mystrchr 	   <{[)()()(]}>  	()  	()()(]}>  
+
+183 mymemmove 	   mahesh 	kendre 		4 	kendsh
+184 mymemmove 	   ganesh  	mumbaipunemumbai 	10 	mumbaipunemumbai
+185 mymemmove 	   MAHESH 	ganeshkumar 	11 	ganeshkumar
+186 mymemmove 	   manoj 	<><><><> 	8 	<><><>
+187 mymemmove 	   saroj  	manish  	3  	manoj
+188 mymemmove 	   9049782618  9158792618  	6  	9158792618
+189 mymemmove 	   RAJU 	anju 		2 	anju
+190 mymemmove 	   --+*+--  	++++  		2 	+++*+--
+
+191 mymemset 	   cghfhgghgiuhj 	h 	12 	hhhhhhhhhhhhhhhh
+192 mymemset 	   solapur 		z 	3  	zzzlapur
+193 mymemset	   111508039 		1 	9 	11111111
+194 mymemset 	   hritik 		i 	5 	iiiiik
+195 mymemset 	   MAHESHWARI 		k 	5 	kkkkkhwari
+196 mymemset 	   111508024 		4 	7 	111508027
+197 mymemset 	   <{[)()()(]}>  	. 	 12  	.............
+198 mymemset 	   >:"-|-":<  		| 	 9 	||||||||||
+
+199 mymemcmp 	   mahi 	mahesh 	    	4	  6
+200 mymemcmp 	   MAHESH 	MAHI 	    	3 	  0 
+201 mymemcmp 	   111508039  	111508024 	7	  6
+202 mymemcmp 	   vivek 	tatya 		4 	 -5
+203 mymemcmp 	   manu 	ganu 		0 	  0
+204 mymemcmp 	   ;'.,;'' 	;'.,;.'  	5  	  0
+205 mymemcmp 	   maheshkumar 	maheshkendre 	6 	  0
+206 mymemcmp 	   <><<>><>  	<><<<>>><>  	6  	  45
+
+207 myindex 	   maheshkendre  	x  	kendrem
+208 myindex 	   landge  		z 	 dge
+209 myindex 	   ,;';;]]]]]] 		 ]  	]]]]]  
+210 myindex 	   hritik  		t  	tik
+211 myindex 	   111508039  		0  	039
+212 myindex 	   MAHESHKUMAR  	H  	HESHKUMAR
+213 myindex 	   GANESH 		a 	anesh
+214 myindex 	   jdfkdfdfkdjfid 	f 	jdkdjkfjdko
+
+215 myrindex 	   maheshkumarkendre 	k 	kendre
+216 myrindex 	   VAIBHAVGAWLI  	A  	AWLI
+217 myrindex 	   111508045  		0  	08045
+218 myrindex 	   ';,./';';]']][]';';';'   	;  	;'
+219 myrindex 	   {}}{}}{}}{{}}{}}{}{}{{{}{}{}{   	}  	}{}{ 
+220 myrindex 	   ganpati 		a 	anpati
+221 myrindex 	   MAHESHWAR 		H 	HWAR
+222 myrindex 	   [][][|][][] 		| 	|][][]
+
+223 myffs 	   6528736287362 	6
+224 myffs	   2 			0
+225 myffs 	   873892 		1
+226 myffs 	   877438463876 	3
+227 myffs 	   8 			4
+228 myffs 	   5 			2
+
+229 myffsl 	8744444444444444443489358435964453974354 	8
+230 myffsl 	3877777777777777777777263 	1
+231 myffsl 	872893728372863287632763782 	2
+232 myffsl 	63763783628372837282782827382 	8
+233 myffsl 	362666666666666666666665722222222256265372 	1
+234 myffsl 	111111111111111111122222222222222233333333	 1 
+
+235 myffsll 	42552653752876728237825362576372874983627372563257846872983928748720192786274782526567325276287827382678263827638276  	1
+236 myffsll 	23468465484165498848516584816546162198465515421 	3
+237 myffsll 	56666666798518462184982198456666666484111151118564898465494565194888955165411100001 	8
+238 myffsll 	32 	1
+239 myffsll 	16 	5
+240 myffsll        7463873584875984754897549875894574892783627372563257846872983928748720192786274782526567325276287827382678263827638276234684654841654988  7 
+
+241 mystrncat 	   maheshkumar 		ganeshkendre 	1 	maheshkumarg
+242 mystrncat 	   mahesh 		swarup 		10 	maheshswarup
+243 mystrncat 	   MAHARASHATRA 	isstate 	7 	maharashatraisstate
+244 mystrncat 	   --{^|^}  		--  		2 	 --{^|^}--
+245 mystrncat 	   MS 			dhoni 		6 	msdhoni
+246 mystrncat 	   111  		508039  	6  	111508039
+247 mystrncat 	   maheshkumar 		kendre 		0 	maheshkumarkendre
+248 mystrncat 	   +_++__+++___++++  	++++___+++__++_+  	16  	+_++__+++___++++++++___+++__++_+
+
+249 mimemcpy 	   shdgusgudi 	   	sughiudhusi 		4 	hdjshio
+250 mimemcpy 	   maheshkendre 	ganesh 			6 	ganeshkendre 
+251 mimemcpy 	   1651765187517881 	1111111111111111111 	40 	1111111111111111111
+252 mimemcpy 	   ABHISHEK  		MILK 			4 	MILKSHEK
+253 mimemcpy 	   12121122212121212121  	111111111111111111111111111111  	20  	1111111111111111111121
+254 mimemcpy	   vivek 		tatya 			4 	tatyk
+255 mimemcpy 	   ...;;;''';;;...  	...;;;''';;;... 	6  	...;;;''';;;...
+256 mimemcpy	   RAMESHWAR 		mahesh 			6  	MAHESHWAR
+257 mimemcpy 	   <><><><><>  		{}{}{}{}{}  		3 	{}{}<><><>
+
+258 mymemchr 	   mheshakumar 		a 		6 	aheshkumar
+259 mymemchr 	   hshj 		sjdh 		6 	jdshkj
+260 mymemchr 	   landge 		d 		5 	dge
+261 mymemchr 	   VIRATKOHLI 		I 		10 	iratkohli
+262 mymemchr 	   6879326876827362873280  	0 	23 	0 
+263 mymemchr 	   solapur 		z 		3 	pur
+264 mymemchr 	   +_++__+++___++++  	_  		4  	_++__+++___++++
+265 mymemchr 	   hritik 		i 		8 	itik
+266 mymemchr 	   ><}{)(;'; 		 (		6  	(;';
+
+267 mybcmp 	mahesh 		mahi 		3 	0
+268 mybcmp 	anurag 		anuragg 	7 	8
+269 mybcmp 	ganeshlandge 	ganesh  	6 	0
+270 mybcmp 	5326432635266 	673463876438 	7 	8
+271 mybcmp 	<[;'.[]]]>  	vhgdsghdgs 	0 	8
+272 mybcmp 	vivek 		tatya 		4 	-5
+273 mybcmp 	maheshkendre 	maheshKENDRE 	6	0
+274 mybcmp 	abhishek 	anurag		0 	0
+
+275 mystrdupa	   mahesh 	mahesh
+276 mystrdupa 	   kkk 		kkk
+277 mystrdupa 	   vivek 	arjun
+278 mystrdupa 	   12345-54321  12345-54321
+279 mystrdupa 	   onkar 	omkar
+280 mystrdupa 	   MUMBAIPUNEMUMBAI 	mumbaipunemumbai
+281 mystrdupa 	   -+-+***+-+-  	+-+-***-+-+ 
+282 mystrdupa 	   ...;;;''';;;...  	...;;;''';;;...
+
+283 mystrndupa 		indiaismycountry 	3 	india
+284 mystrndupa 		hsghsgdshdiushdsndjsdhsi 	9 	hsghsgds
+285 mystrndupa 		12345-54321 		5 	12345
+286 mystrndupa 		NAGPUR 			3 	nag
+287 mystrndupa 		aaaaaaaaaaa  		7  	aaaaaaa
+288 mystrndupa 		({'_|_'})  		9 	({'_|_'})
+289 mystrndupa 		83974834689374296736487263287892787283628736283628736287 	50 892372928926329872938729387923729362783628732638273283287
+290 mystrndupa 		/|\.../|\.../|\  	12 	 /|\..../|\.. 
+
+291 mymempcpy 		howareyou 	iamfine 	3 	hsdhgsui
+292 mymempcpy 		tanmay 		mahesh 		5 	y
+293 mymempcpy 		vivek 		vivu 		0 	vivek
+294 mymempcpy 		VARSHAKENDRE 	GANESH		6 	KENDRE
+295 mymempcpy 		9049785027  	9049789657 	8 	57
+296 mymempcpy 		<>{}()><  	{}()[] 		4  	{}()><
+297 mymempcpy 		maheshkumar 	kendre 		10 	kumar
+298 mymempcpy 		shgsjhsj 	sjbhjsds	0 	shgsjhsj
+299 mymempcpy  		/...|...\...|.../  	\....|..../  	  2  		..|.../...|...\
+300 mymempcpy  		;'.,/\-=   	,/;']'=-  	6  		-=
+ 
+301 mymemccpy 		maheshkumar 	ganesh 		h 	6 	hkumar
+302 mymemccpy 		tamilnadu 	maharashatra 	a 	4 	milnadu
+303 mymemccpy 		msdhoni 	mahi 		m 	4 	sdhoni
+304 mymemccpy 		111508010  	111508027 	1 	1 	111508010
+305 mymemccpy 		tanmay 		mahesh 		s 	5 	may
+306 mymemccpy 		GANESHKUMAR 	pawan 		n 	5 	HKUMAR
+307 mymemccpy 		+_++___++++  	+_+_+_+  	_  	3 	 _++___+++++
+308 mymemccpy 		akshay 		akshaykumar 	y 	8 	kumar
+309 mymemccpy 		<>{}()><  	{}()[]  	}  	4  	{}()><
+310 mymemccpy 		/...|...\...|.../  	\....|..../  .  5 	 ..|.../...|...\

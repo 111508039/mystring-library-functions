@@ -1,0 +1,286 @@
+1 mywcslen 	आदर्शनमुनाउदहरण 	 11
+2 mywcslen 	धडाकित्ता  	 9
+3 mywcslen 	mahesh 		6
+4 mywcslen 	संस्कृतम्  		6
+5  mywcslen 	années 		7
+6 mywcslen 	はたくさんあったけ 10
+7 mywcslen 	가-힣ᄀ-ᇂ 	5
+8 mywcslen 	與朋友交而不信乎 	7
+9 mywcslen 	क्याआपमेरीमददकरसकतेहैं  	 8
+10 mywcslen 	kkk 		1
+11 mywcslen 	nilesh 		-8
+12 mywcslen 	पवन 		5
+13 mywcslen	कस 		2
+14 mywcslen 	366487643876983273987983270971873483265784628975927598275942759874598 		60
+15 mywcslen 	ûüÿæœ 		5
+16 mywcslen 	ટેક્સ્ટ  		4
+17 mywcslen 	ആംഗലേയംമലയാളംശബ്ദകോശം  		 15
+18 mywcslen        ><><><><<<<>><><><	  24
+
+19 mywcscpy 	mahesh 		ganu 	 	ganu
+20 mywcscpy 	ganesh 		landge 		ganesh
+21 mywcscpy 	mahesh 		maheshkumar  	maheshkendre
+22 mywcscpy 	अंतकरणापासून  	महोत्सव   		 महोत्सव 
+23 mywcscpy 	désavouant 	sélectionnez 	sélectionnez
+24 mywcscpy 	आदर्  	 	संस्कृतम्  		 दर्शसंस्कृतम्
+25 mywcscpy 	mahesh 		kendre 		kendre
+26 mywcscpy 	人謀而不忠乎與   朋友交而不信乎  朋友交而不信乎
+27 mywcscpy 	くさんあったけ  	を産うんだ  	を産うん
+28 mywcscpy  	.,][;"'  	[,.';'';]  	[,.';;'.]
+29 mywcscpy	4353535645646  	12  		12 
+30 mywcscpy	અનેગુજરાતીથી          いことはたく	いことはたく
+31 mywcscpy	0  		111508039  	111508045
+32 mywcscpy	தமிழ்அரிச்சுவடி        அரிச்சுவ                      தமிழ்அரிச்சு 
+
+33 mywcscat 	आदर्श  		उदहरण  		 दहरण  
+34 mywcscat 	かきたいこ  	を産うんだ後  	たいことはたくさんあったけれ...
+35 mywcscat 	はたくさんあ  	가-힣ᄀ-ᇂ  	後たいことはたくさんあ
+36 mywcscat 	為人謀而不忠乎 	與朋友交而不信乎 	人謀而不忠乎與朋友交而不信乎傳
+37 mywcscat 	ganesh 		sachin 		ganeshsachin
+38 mywcscat 	vaibhav 	abhishek  	abhishekvaibhav
+39 mywcscat 	अंतकरणापासून   	संस्कारक्षम   	अंतकरणापासूनसंस्कारक्षम  
+40 mywcscat	راجستھا		ستھا		راجستھاستھا
+41 mywcscat	MAHESH 		kendre 		maheshkendre
+42 mywcscat	<';,./.>  	[;';';']  	<[';';';']>
+43 mywcscat	90497 		89657 		9049789657
+44 mywcscat	ఇంగ్	షు		ఇంగ్షు
+
+45 mywcsncat	--{^|^}  	--^^  		3 	--{^|^}--^
+46 mywcsncat	થીઅંગ્રેજીનીસુ	12345           4	થીઅંગ્રેજીનીસુ1234
+47 mywcsncat	MAHARASHATRA 	isstate 	7 	maharashatraisstate
+48 mywcsncat	plupart 	पुस्तकाच्या 	11	पुस्तकाच्या
+49 mywcsncat	mahesh 		swarup 		10 	maheshswarup
+50 mywcsncat	ആംഗലേ	こいた           1	ആംഗലേこ
+51 mywcsncat	श्रघ्दाजंली 	कितीतरी 		5	कितीत
+52 mywcsncat	111  		508039  	6  	111508039
+53 mywcsncat	+_++__+++___++++  	++++___+++__++_+  	16  	+_++__+++___++++++++___+++__++_+
+54 mywcsncat	MS 		dhoni 		6 	msdhoni
+
+55 mywcsrev 	उदहरण  		 णरहदत
+56 mywcsrev 	與朋友交而 	忠乎與朋友
+57 mywcsrev 	かきたいこ  	こいたきか
+58 mywcsrev 	راجستھاني	   راجستھاني
+59 mywcsrev	1*2*3*4=24 	24=4*3*2*1
+60 mywcsrev	ਅੰਗ੍ਰੇਜ਼ੀਸ਼		ਸ਼ਜ਼ੀਅੰਗ੍
+61 mywcsrev	MAHESHKUMAR 	RAMUKHSEHAM
+62 mywcsrev	आठवणी 		णीवठआ
+63 mywcsrev	ksdj 		weir
+64 mywcsrev	;'<>{}()  	(){}<>';
+65 mywcsrev	shubham 	mahbuhs
+
+66 mywcsoccurance 		उदहरणआदर्शदहरणनमुनाउदहरण  	हरण  	 	6
+67 mywcsoccurance 		iammaammamamiaam 	am 		5
+68 mywcsoccurance 		અંગ્રેજીગુજરાતીશબ્કોશ   	ગુજરાતી  	2
+69 mywcsoccurance 		ਅੰਗ੍ਰੇਜ਼ੀਪੰਜਾਬੀਸ਼ਬਦ-ਕੋਸ਼   	ਪੰਜਾਬੀ 	 	3
+70 mywcsoccurance 		ইংরেজিবাংলাঅভিধান   		ગુજરાતી  	 1
+71 mywcsoccurance 		IAMMAMAMMAAM  	 	 AM  	    	4 
+72 mywcsoccurance 		heissheisishsiisi  	is  		5
+73 mywcsoccurance 		INDIAISMYCOUNTRYANDALLINDIANSAREMYBROTHERS 	INDIA	2
+74 mywcsoccurance 		()}[>'-(.)-'<]{)()  	()  	3 
+75 mywcsoccurance 		111508039_111508045_111508027   	11150   	3 
+76 mywcsoccurance 		+_+_++_+__+_++_++_++_+++_+__+++_+__++_++++_+++_+++_+++  	++_  	6
+
+77 mywcspbrk 	 અંગ્રેજીગુજરાતીશબ્દકોશ   	ગુજરાતી  	 ગુજરાતીશબ્દકોશ
+78 mywcspbrk	 ఇంగ్లీషుతెలుగునిఘంటువు  	షు 	 లుగునిఘంటువు 
+79 mywcspbrk 	 ગુજરાતીઅનેગુજરાતીથીઅંગ્રેજીનીસુવિધાઉપલબ્ધકરેછે    અંગ્રેજીનાઅર્થઆસાઈટ   નેગુજરાતીથીઅંગ્રેજીનીસુવિધાઉપલબ્ધકરેછે 
+80 mywcspbrk 	 mumbaipunemumbai 	vwxyz 	bsusuvysbsu    
+81 mywcspbrk 	 जगासाठीकुणीहीनसलेलीव्यक्तीआपल्या   	साठी‪विशेष‬असते   	साठीकुणीहीनसलेली  
+82 mywcspbrk 	 आठवणी   	भावनाआहेततेथेतुटप्रेमआहे   	आठवणी  
+83 mywcspbrk	 salman 		man 		alman
+84 mywcspbrk	 ANURAG 		anita 		ANURAG
+85 mywcspbrk	 ..<[[{()}]]>..		[]   		[{()}]]>..
+86 mywcspbrk	 7083324363 		3 		3324363
+87 mywcspbrk	 謀而不忠乎人謀而不	謀而		謀而不忠乎人謀而不
+88 mywcspbrk	 ആംഗലേ		ഗലേയംമ	ഗലേ
+
+89 mywcsnlen 	অভিধান  		6 	6
+90 mywcsnlen 	झाडावरफळअसतातदगडमारतात   		17  	16
+91 mywcsnlen 	இணையத்தை   	9 	9
+92 mywcsnlen 	ਅੰਗ੍ਰੇਜ਼ੀਸ਼ਬਦ-ਕੋਸ਼  	10 	10
+93 mywcsnlen	nilesh 		6	-8
+94 mywcsnlen	मददकरसकतेहैं              15       15
+95 mywcsnlen	\<{([])}>/	10       9
+96 mywcsnlen	श्रघ्दाजंली 	9        9
+97 mywcsnlen	తెలుగునిఘం	10	0
+98 mywcsnlen	पवन 		5	3
+99 mywcsnlen	ലയാളംശബ്ദ 	0	0
+
+100 mywcstr 	abcddcava 		xyz 	cddcaav
+101 mywcstr 	ആംഗലേയംമ   		യ  	 യംമ 
+102 mywcstr 	दगडमारतातझाडावरफळ    	झाड   	झाडावरफळअसतात
+103 mywcstr 	રેજીનાઅર્થઆસા   		નાઅ   	અર્થઆસા 
+104 mywcstr		ûüÿæœ 			dénumérer	ûüÿæ
+105 mywcstr		कळ्या_तोडून_आणण्याचा_प्रसंग 	तोडून	तोडून_आणण्याचा_प्रसंग
+106 mywcstr		MAHESHKUMARkumar  	K  	KUMARkumar
+107 mywcstr		AMAMAMAMAMMMAMAMAAMAAMAMAM  	MA  	MAMAMAMAMMMAMAMAAMAAMAMAM 
+108 mywcstr		indiaismycountryandallindians		india		indians
+109 mywcstr		ആംഗലേയംമല		ഗലേ		ഗലേയംമല
+110 mywcstr		sachin_vivek_balaji  	vishal  	vivek_balaji
+111 mywcstr		,.=-.;'[]-=		-=;.,		=';,-=		
+
+112 mywcsreplace 	उदहरणदहरणनमनउदहरण  	 हरण 	  मरत  	उदमरतदरदहरणनमनाउदमरतत 
+113 mywcsreplace 	9049789657 		904978	 0 	09657
+114 mywcsreplace 	為人謀而不忠乎與朋友交而不信乎 	 與朋 	人謀而不忠乎與  	為人謀而不忠乎人謀而不忠乎與友交而不信乎
+115 mywcsreplace	111508039  	39  	45  	111508039
+116 mywcsreplace	issiis  	is 	 her 	hersiher
+117 mywcsreplace	abbbbbabab  	ab  	**  	**bbbbbbb****
+118 mywcsreplace	कांदबरी 		द	य	कांयबरी 
+119 mywcsreplace	sachin_vivek_balaji  	vishal  	kapse 		sachin_vivek_balaji
+120 mywcsreplace	.संस्कार,;म्हणजे'नक्की'काय? 	म्हणजे		काय		.संस्कार,;काय'नक्की'काय?
+121 mywcsreplace	><<><<<>><<><>>><><><><<><>< 	<><>  	 |||  	 ><|||<><|||<><<<>>|||<<>>><>|||<>
+122 mywcsreplace	ఇంగ్లీషుతెలుగుని		షుతె	ని	ఇంగ్లీషుతె
+123 mywcsreplace	française 	ÿ	her	française 
+	
+124 mywmemmove 	maheshkendre 	ganeshkumar 	8 	maheshkumar
+125 mywmemmove 	झडवरफळअसतत  	 दगडमरतत   	 6  	दगडमरततअसतत
+126 mywmemmove 	./,;'./.,  	[]=-=[';.  	9  	,'./'./''
+127 mywmemmove 	78634389378  	123456789 	10 	123456788
+128 mywmemmove 	ആംഗലേയംമ   	യ     		7 	 യയയയയയ                
+129 mywmemmove	--+*+--  	++++  		2 	+++*+--
+130 mywmemmove	9049782618  	9158792618  	6  	9158792618
+131 mywmemmove	而不忠		乎與友交而不信乎	8	乎與友交而不信
+132 mywmemmove	manoj 		<><><><><> 	8 	<><><><>
+133 mywmemmove	ఇంగ్	లుగుని	5	లుగున
+134 mywmemmove	दहरणनमन		かきたいこ 	3	かきた
+
+135 mywcsspn 	mahesh		 kendrekumar	 4
+136 mywcsspn 	दगडमरततअसतत   	  दगडमरतत  	  6
+137 mywcsspn	shiva 		ashish 		 3
+138 mywcsspn	નાઅર્થઆસા   	આસા 		3
+139 mywcsspn	hritik 		shahid 		4
+140 mywcsspn	SHIVA 		ashish 		3
+141 mywcsspn	;'[]=-,.  	.;'  		2
+142 mywcsspn	णयचपरसंग 	णयच		3
+143 mywcsspn	இணையத்	かきた		0
+144 mywcsspn	111508027 	09657835421 	9
+145 mywcsspn	గ్లీషుతె	ఇంగ్లీషు	8
+146 mywcsspn	<{[}{}}{}><>>  	<{[}{}}{}><><	7
+
+147 mywcscspn	ആംഗലേ	ആംഗലേ	3
+148 mywcscspn	ആംഗലേയംമ   	മ 		4
+149 mywcscspn	णयचपरसंग 	णयच		0
+150 mywcscspn	InDiA 		iNdIa 	    	5
+151 mywcscspn	గ్లీషుతె	ఇంగ్లీషు	8
+152 mywcscspn	ganesh 		ganesh 		6
+153 mywcscspn	{>|)^(|<} 	/\/\  	        9
+154 mywcscspn	7083324363 	91551995     	10
+155 mywcscspn	shiva 		kalyan		 4
+156 mywcscspn	乎與信乎	இணையத்	9
+157 mywcscspn	இணையத்தை		दगडमर		5
+
+158 miwcpcpy 	mahesh 		kendre 		mahi
+159 miwcpcpy	7083324363 	915519		7083324363 
+160 miwcpcpy	ணையத்		乎與信乎	乎與信乎
+161 miwcpcpy	[}{}}{}><	}}{}><		}}{}><
+
+162 mywcschr 	aheshkendre 	mahi 	mahesh
+163 mywcschr 	दगडमरतत  	म   	गडमरतत
+164 mywcschr	>:"-|-":<  	|  	|-":<
+165 mywcschr	78675276528768 	2  	276528768
+166 mywcschr	मददकरपर		र	रपर	
+167 mywcschr	たくさんあったけ	かき	くさんあったけ	
+168 mywcschr	solapur 	p  	pur
+169 mywcschr	గ్లీ	ఇం	గ్లీ
+170 mywcschr	iamiamamimamiaaimamiamaimmaimimimaa  	iam   	  iamiamamiamamamammmimaammammamammam
+171 mywcschr	पवन 		प	पवन 
+
+172 mywmemset 	mahesh 		k  	6 	mkkkkkkk
+173 mywmemset	दगडमरततअसतत   	त	11	ततततततततततत
+174 mywmemset	111508039 	1 	9 	11111111
+175 mywmemset	<{[)()()(]}>  	. 	 12  	.............
+176 mywmemset	MAHESHWARI 		k 	5 	kkkkkhwari
+177 mywmemset	 >:"-|-":<  		| 	 9 	||||||||||
+178 mywmemset	 solapur 		z 	3  	zzzapur
+179 mywmemset	ആംഗലേയംമ   		గ	4	గ్గ్മ
+180 mywmemset	గ్లీషుతె	人	4	人人人人తె
+181 mywmemset	française		m       5 	mmmmmaise
+
+182 mywcmemcpy  	उदहरण    	       		दहरण   		4  	दहरण 
+183 mywcmemcpy  	maharashatraisstate 	tamilnadu 	9 	tamilnaduisstate
+184 mywcmemcpy  	不忠乎與朋友交而不信乎  	而不忠乎與  	5  	而不忠乎與友交而不信乎
+185 mywcmemcpy	かきた			இணையத்	3	இணைய
+186 mywcmemcpy	shdgusgudi 	   	sughiudhusi 		4 	hdjshio
+187 mywcmemcpy	...;;;''';;;...  	...;;;''';;;... 	6  	...;;;''';;;...
+188 mywcmemcpy	<><><><><>  		{}{}{}{}{}  		3 	{}{}<><><>
+189 mywcmemcpy	तोडून_आणण्याचा		ఇంగ్లీషుతెలుగుని		8	ఇంగ్లీషుతెలుగునిणण्याचा		
+190 mywcmemcpy	d'énumérer		maheshkumar		6	maheshmérer
+191 mywcmemcpy	vivek 			tatya 			4 	tatyk
+192 mywcmemcpy	與朋友交而不		pawan			0	與朋友交而不
+
+193 mywcmemchr  	दगडमरततअसतत   		 ड    	4  	गडमरततअसतत  
+194 mywcmemchr  	ആംഗലേയംമ    		യ   	10  	യംമ
+195 mywcmemchr  	754735846  		1   	8  	338337
+196 mywcmemchr	+_++__+++___++++  	_  	4  	_++__+++___++++
+197 mywcmemchr	mheshakumar 		a 	5 	aheshkumar
+198 mywcmemchr	અંગ્રેજીગુજરાતીશબ્દ	ગુ	6	ગુજરાતીશબ્દ
+199 mywcmemchr	landge 			d 	5 	dge
+200 mywcmemchr	గ్లీషుతె	గ	0	గ్లీషుతె
+201 mywcmemchr	><}{)(;'; 		 (	6  	(;';
+202 mywcmemchr	दुष्कर्म 			ष् 	7	ष्कर्म 
+203 mywcmemchr	मूलभूत 			ड 	4	लभूत 
+
+204 mywcsdup 	घडल   		अहे
+205 mywcsdup 	sachink 	sachink
+206 mywcsdup 	अनीती  		अनीती
+207 mywcsdup 	ûüÿæœ 		d'énumérer
+208 mywcsdup 	ûüÿæœ 		ûüÿæœ
+209 mywcsdup 	<{[}{}}{}><>>		<{[}{}}{}><><
+210 mywcsdup 	人人ગ્રેજીગુજરા人人	人ગ્રેજીગુજરા人
+211 mywcsdup 	ആംഗലേയംമ 		ആംഗലേയംമ 	
+212 mywcsdup 	గ్లీషుతె	గ్లీషుతె
+213 mywcsdup 	कळ्या_तोडून_आणण्याचा_प्रसंग.संस्कार,;म्हणजे'नक्की'काय?	कळ्या_तोडून_आणण्याचा_प्रसंग.संस्कार,;म्हणजे'नक्की'काय	
+
+214 mywcmemfrob	française	8	GFCSJHSS
+215 mywcmemfrob	mahesh  	4  	GKBOsh
+216 mywcmemfrob	ആംഗലേയംമ	10	DGDUYDGJ
+217 mywcmemfrob	இணையத்	0	இணையத்
+218 mywcmemfrob	<[(123321)]>  	10  	{<([])>}
+219 mywcmemfrob	mahesh  	6  	GKBOYB
+220 mywcmemfrob	ਅੰਗ੍ਰੇਜ਼ੀਸ਼ਬਦ-ਕੋ	7 	గ్లీషు
+221 mywcmemfrob	आठवणी  		4	आणण्याचा
+222 mywcmemfrob	ûüÿæœ		2	HJGSJGM
+223 mywcmemfrob	રેજીનાઅર્થઆસા	10	જીગુજ
+
+224 mywcrchr	maheshkumarkendre 	k 	kendre
+225 mywcrchr	दगडमरततअसतत   		त	 त 
+226 mywcrchr	たくさんあったけ		かき	くさんあったけ
+227 mywcrchr	VAIBHAVGAWLI  		A  	AWLI
+228 mywcrchr	मददकरपर			द	दकरपर		
+229 mywcrchr	અનેગુજરાતીથી 		તી	જરાતીથી 
+230 mywcrchr	111508045  		0  	08045
+231 mywcrchr	{}}{}}{}}{{}}{}}{}{}{{{}{}{}{   	}  	}{}{ 
+232 mywcrchr	कुणीही			ण	णीही
+233 mywcrchr	而不忠乎與朋友與交而	與	與交而
+234 mywcrchr	অভিধান 			অ	ভিধান 
+	
+235 mywcsncpy	अनीती  		ûüÿæœ		0 	अनीती 	
+236 mywcsncpy	இணையத்	かきた		3	かきた
+237 mywcsncpy	<,;'[.;']>  	11111122222222  6  	111111
+238 mywcsncpy	sachin 		cricketer 	0 	sachin
+239 mywcsncpy	msdhoni 	virat 		5 	virat
+240 mywcsncpy	ગુજરાતીથી 	मददकरपर		3	मददक
+241 mywcsncpy	milind  	kalaskar  	25 	kalaskar
+242 mywcsncpy	గ్లీషు	లీషు	2	లీ
+243 mywcsncpy	maheshkumar	ഗലേയംമ 	20	ഗലേയംമ 
+
+244 mywcscmp	saish 		saiSH  		0
+245 mywcscmp	नंतर 		ठेवला 		-14
+246 mywcscmp	たくさんあったけ	たくさんあったけ	0
+247 mywcscmp	abc 		b 		1
+248 mywcscmp	आई 		आई		 0
+249 mywcscmp	mahesh		kendre 		3
+250 mywcscmp	énorme 		अमृत 		8
+251 mywcscmp	ഗലേയംമ	virat		87
+252 mywcscmp	ગુજરાતીથી 	ગુજરાતીથી 	0
+253 mywcscmp 	గ్లీషుతె	గ్లీషుతె	0
+
+254 mywcsncmp	ganeshlandge 	ganesh 		6 	0
+255 mywcsncmp	ਪੰਜਾਬੀ 		راجستھاني	0	0
+256 mywcsncmp	ইংরেজিবাংলাঅভিধান   	ગુજરાતી		9	0 
+257 mywcsncmp	itinéraire 	sélectionnez 	3	66
+258 mywcsncmp	énorme 		अमृत 		8	90
+259 mywcsncmp	;'.,;'' 	;'.,;.'  	4  	7 
+260 mywcsncmp	/.,;'-=  	/.,;'-=  	7	0
+261 mywcsncmp	గ్లీషుతె	గ్లీషుతె	10	0
+262 mywcsncmp	ഗലേയംമല		ganesh 			100     100
+263 mywcsncmp	與朋友與交		kalaskar		0	0
